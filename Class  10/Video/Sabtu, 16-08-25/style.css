@@ -1,5 +1,17 @@
 body{
-    background-color: rgb(252, 7, 7);
+    background-color: rgb;
+}
+
+div{
+    border: 2px solid black; 
+    margin: 100px 0px 0px 50px;
+    /*margin-left: 200px;*/
+
+    padding-top: 20px;
+}
+
+nav{
+    border: 3px solid black;
 }
 
 img{
@@ -15,11 +27,13 @@ img{
 }
 
 .warna {
-    background-color: rgb(247, 249, 250);
+    background-color: white;
 }
 
 #bekgron {
-    background-color:rgb(25, 202, 25) 
+    background-color:red;
+    position: sticky;
+    top: 200px;
 }
 
 #kiri {
