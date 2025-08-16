@@ -1,4 +1,27 @@
 body{
-    background-color: aqua;
+    background-color: rgb(252, 7, 7);
 }
 
+img{
+    width: 200px;
+}
+
+/*nav{
+    margin-left: 200px;
+}*/
+
+.batas {
+    margin-left: 200px;
+}
+
+.warna {
+    background-color: rgb(247, 249, 250);
+}
+
+#bekgron {
+    background-color:rgb(25, 202, 25) 
+}
+
+#kiri {
+    margin-left: 200px;
+}
